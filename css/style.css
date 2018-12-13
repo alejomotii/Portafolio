@@ -1,0 +1,132 @@
+
+header{
+background-color: #000000;
+text-align: center;
+color: #000000;
+position: absolute;
+width: 100%;
+top: 0;
+z-index: 9999;
+font-size: 20px;
+}
+
+body{
+font-family: 'Ubuntu', sans-serif;
+}
+
+#sec-hero{
+background-image: url(../img/port.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+font-family: 'Ubuntu', sans-serif;
+padding: 300px 0;
+color: #000000;
+}
+
+#sec-hero h1{
+font-weight: 400;
+text-transform: uppercase;
+margin-bottom: 40px;
+font-size: 70px;
+margin-top: 40px;
+letter-spacing: 20px; 
+}
+
+#sec-about {
+background-image: url(../img/dgbe.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;  
+}
+
+
+.titulo{
+font-family: 'Ubuntu', sans-serif;
+font-size: 50px;
+text-transform: uppercase;
+letter-spacing: 4px;
+color: #fff;
+padding-top: 70px;
+margin-bottom: 20px;
+}
+
+.subtitulo{
+font-family: 'Ubuntu', sans-serif;
+font-size: 35px;
+font-style: italic;
+color: #DCDCDC;
+padding-bottom:40px;
+}
+
+#sec-about h4{
+padding-bottom: 40px;
+padding-top: 15px;
+}
+
+#sec-adobe {
+background-image: url(../img/wite-01.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;  
+padding-bottom: 30px;
+}
+
+#sec-adobe h2{
+font-family: 'Ubuntu', sans-serif;
+font-size: 50px;
+text-transform: uppercase;
+letter-spacing: 4px;
+color: #000;
+padding-top: 30px;
+text-align: center;
+}
+
+#sec-adobe h3{
+font-family: 'Ubuntu', sans-serif;
+font-size: 20px;
+text-transform: uppercase;
+letter-spacing: 4px;
+color: #191919;
+padding-top: 30px;
+margin-bottom: 30px;
+text-align: center;
+}
+
+.logo{
+text-align: center;
+}
+
+#sec-adobe h4{
+padding-bottom: 40px;
+padding-top: 15px;
+text-align: center;
+}
+
+#sec-gallery{
+padding-top: 30px;
+padding-bottom: 30px;
+background-color: #D3D3D3;
+}
+
+.sec-espacios{
+text-align: center;
+}
+
+.duit{
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+#footer{
+}
+
+#footer-menu{
+	background-color: #000000;
+	color: #7C7C7C;
+	padding-top: 20px;
+}
+
+
+
+
